@@ -11,3 +11,5 @@ function calculateCircleArea(radius) {
 // Example usage of the functions
 console.log("Area of a rectangle with length 5 and width 3:", calculateRectangleArea(5, 3));
 console.log("Area of a circle with radius 4:", calculateCircleArea(4));
+
+// pricing plans logic
